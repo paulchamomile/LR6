@@ -28,21 +28,21 @@
 
   7. Возникает конфликт, который необходимо решить (исправление конфликта на рис. ниже).
 
-![Конфликт](https://github.com/paulchamomile/LR6/blob/labrep/screenshots/6.jpg)
+![Конфликт](https://github.com/paulchamomile/LR6/blob/labrep/screenshots/6.png)
 
   8. После разрешения конфликта, можно продолжить слияние веток. Были сохранены и подтверждены изменения о их слиянии с помощью commit. Тогда из репозитория (как у себя локально, так и синхронизируя изменения с GitHub командой push.
   
-![Конфликт](https://github.com/paulchamomile/LR6/blob/labrep/screenshots/7.jpg)
+![Конфликт](https://github.com/paulchamomile/LR6/blob/labrep/screenshots/7.png)
   
   9. Были осуществлены некоторые изменения (были созданы файлы с текстом с помощью 'echo'). Эти изменения были подтверждены с помощью commit. Затем была вызвана команда 'git log -3', чтоб показать последние три изменения.
   
-![Создание файлов](https://github.com/paulchamomile/LR6/blob/labrep/screenshots/8.jpg)
+![Создание файлов](https://github.com/paulchamomile/LR6/blob/labrep/screenshots/8.png)
   
-![История изменений](https://github.com/paulchamomile/LR6/tree/labrep/screenshots/9.jpg)
+![История изменений](https://github.com/paulchamomile/LR6/blob/labrep/screenshots/9.png)
   
   10. Для оформления данного отчета была создана ветка labrep с помощью 'git branch labrep'. Загрузить директорию с локального репозитория на GitHub можно с помощью команды 'push'.
 
   11. Форматированный вид истории операций:
-![Форматированный вид истории](https://github.com/paulchamomile/LR6/tree/labrep/screenshots/14.png)
+![Форматированный вид истории](https://github.com/paulchamomile/LR6/blob/labrep/screenshots/14.png)
   
   12. Данный отчет был создан в файле README.md (ветка labrep) с markdown-синтаксисом.
