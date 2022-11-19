@@ -40,7 +40,9 @@
   
 ![История изменений](https://github.com/kohosha/finLR6/blob/report/screens/9.jpg)
   
-  10. 
+  10. Для оформления данного отчета была создана ветка labrep с помощью 'git branch labrep'. Загрузить директорию с локального репозитория на GitHub можно с помощью команды 'push'.
 
-  11. Форматированный вид истории операций
-![Форматированный вид истории](https://github.com/paulchamomile/LR6/blob/labrep/screenshots/13.png)
+  11. Форматированный вид истории операций:
+![Форматированный вид истории](https://github.com/paulchamomile/LR6/blob/labrep/screenshots/14.png)
+  
+  12. Данный отчет был создан в файле README.md (ветка labrep) с markdown-синтаксисом.
