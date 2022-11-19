@@ -28,17 +28,17 @@
 
   7. Возникает конфликт, который необходимо решить (исправление конфликта на рис. ниже).
 
-![Конфликт](https://github.com/kohosha/finLR6/blob/report/screens/6.jpg)
+![Конфликт](https://github.com/paulchamomile/LR6/blob/labrep/screenshots/6.jpg)
 
   8. После разрешения конфликта, можно продолжить слияние веток. Были сохранены и подтверждены изменения о их слиянии с помощью commit. Тогда из репозитория (как у себя локально, так и синхронизируя изменения с GitHub командой push.
   
-![Конфликт](https://github.com/kohosha/finLR6/blob/report/screens/7.jpg)
+![Конфликт](https://github.com/paulchamomile/LR6/blob/labrep/screenshots/7.jpg)
   
   9. Были осуществлены некоторые изменения (были созданы файлы с текстом с помощью 'echo'). Эти изменения были подтверждены с помощью commit. Затем была вызвана команда 'git log -3', чтоб показать последние три изменения.
   
-![Создание файлов](https://github.com/kohosha/finLR6/blob/report/screens/8.jpg)
+![Создание файлов](https://github.com/paulchamomile/LR6/blob/labrep/screenshots/8.jpg)
   
-![История изменений](https://github.com/kohosha/finLR6/blob/report/screens/9.jpg)
+![История изменений](https://github.com/paulchamomile/LR6/blob/labrep/screenshots/9.jpg)
   
   10. Для оформления данного отчета была создана ветка labrep с помощью 'git branch labrep'. Загрузить директорию с локального репозитория на GitHub можно с помощью команды 'push'.
 
